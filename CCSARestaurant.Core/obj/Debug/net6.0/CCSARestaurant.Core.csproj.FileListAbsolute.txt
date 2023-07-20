@@ -1,0 +1,24 @@
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\bin\Debug\net6.0\CCSARestaurant.Core.deps.json
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\bin\Debug\net6.0\CCSARestaurant.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\bin\Debug\net6.0\CCSARestaurant.Core.pdb
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.csproj.AssemblyReference.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.AssemblyInfoInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.AssemblyInfo.cs
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.csproj.CoreCompileInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\refint\CCSARestaurant.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.pdb
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\ref\CCSARestaurant.Core.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\bin\Debug\net6.0\CCSARestaurant.Core.deps.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\bin\Debug\net6.0\CCSARestaurant.Core.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\bin\Debug\net6.0\CCSARestaurant.Core.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.csproj.AssemblyReference.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.AssemblyInfoInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.AssemblyInfo.cs
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.csproj.CoreCompileInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\refint\CCSARestaurant.Core.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\CCSARestaurant.Core.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant.Core\obj\Debug\net6.0\ref\CCSARestaurant.Core.dll

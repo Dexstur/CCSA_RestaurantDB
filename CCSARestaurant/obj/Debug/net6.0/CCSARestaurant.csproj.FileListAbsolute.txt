@@ -1,0 +1,70 @@
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.exe
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.deps.json
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.runtimeconfig.json
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.pdb
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.csproj.AssemblyReference.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.AssemblyInfoInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.AssemblyInfo.cs
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.csproj.CoreCompileInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\refint\CCSARestaurant.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.pdb
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.genruntimeconfig.cache
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\ref\CCSARestaurant.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\FluentNHibernate.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\NHibernate.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.DB.dll
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.DB.pdb
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.Core.pdb
+C:\Users\MURPHY NNAMDI\source\repos\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.csproj.CopyComplete
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.exe
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.deps.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.runtimeconfig.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\FluentNHibernate.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\NHibernate.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.Core.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.DB.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.DB.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\bin\Debug\net6.0\CCSARestaurant.Core.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.csproj.AssemblyReference.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.AssemblyInfoInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.AssemblyInfo.cs
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.csproj.CoreCompileInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.csproj.CopyComplete
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\refint\CCSARestaurant.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\CCSARestaurant.genruntimeconfig.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\CCSARestaurant\CCSARestaurant\obj\Debug\net6.0\ref\CCSARestaurant.dll
